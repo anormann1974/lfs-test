@@ -1,2 +1,2 @@
 [lfs]
-	url = file:///e%3a/lfs-test/lfs-data
+	url = http://localhost:8080/api/sweco/lfs-test
