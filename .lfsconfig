@@ -1,2 +1,2 @@
 [lfs]
-	url = http://localhost:8080/api/sweco/lfs-test
+	url = http://nas.fritz.box:8070/api/sweco/lfs-test
